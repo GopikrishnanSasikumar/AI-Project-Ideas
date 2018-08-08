@@ -27,7 +27,7 @@ There is no good open source api for voice recognition right now. Mozilla open s
 
 ## 4. Emergency Response system for women safety
 
-## tags : Reinforcement Learning, deep learning.
+### tags : Reinforcement Learning, deep learning.
 
 Alert system for efficient communication with authorities the alarm triggered by a women when she is about to be attacked. For example, finding the nearest safe zones, police stations, nearest friends and relatives..etc.
 
