@@ -1,5 +1,5 @@
 # AI-Project-Ideas
-[alt text](https://github.com/GopikrishnanSasikumar/AI-Project-Ideas/blob/master/hqdefault.jpg?raw=true)
+![meme](https://github.com/GopikrishnanSasikumar/AI-Project-Ideas/blob/master/hqdefault.jpg)
 <p>
   <img src="https://github.com/GopikrishnanSasikumar/AI-Project-Ideas/blob/master/hqdefault.jpg" alt="AI meme"/>
 </p>
