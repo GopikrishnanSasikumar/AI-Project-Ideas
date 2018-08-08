@@ -23,7 +23,7 @@ Character recognition from images for native languages like malayalam, tamil, ka
 
 ### tags: Voice recognition, deep learning.
 
-There is no good open source api for voice recognition right now. Mozilla open sourced common voice api for voice recognition using python. Google released its javascript version of Tensorflow this year. Implement the common voice api in tensorflowjs and build a voice recognition model for the web.
+There is no good open source api for voice recognition right now. Mozilla open sourced [deep speech project](https://github.com/mozilla/DeepSpeech) for voice recognition using python. Google released its javascript version of Tensorflow this year. Implement the common voice api in [tensorflowjs](https://js.tensorflow.org) and build a voice recognition model for the web.
 
 ## 4. Emergency Response system for women safety
 
@@ -31,5 +31,15 @@ There is no good open source api for voice recognition right now. Mozilla open s
 
 Alert system for efficient communication with authorities the alarm triggered by a women when she is about to be attacked. For example, finding the nearest safe zones, police stations, nearest friends and relatives..etc.
 
+## 5. Fake news detection using ML
 
+### tags: NLP, deep learning, machine learning.
+
+A cliche project in machine learning but its good to build better model that's actually working and improve existing models.
+
+## 6. AI app for collecting datasets
+
+### tags: data science, machine learning, deep learning.
+
+ML/DL need a lot of datasets for training the models. What about building an Android/IOS app that makes data collection easy ? Use pretrained models like Imagenet and various NLP models to do automatic labelling, various statictical techniques to automatically generate summary of datasets. Use various preprocessing techniques to apply a particular preprocessing technique to a dataset. What i am saying is an excel for data science!
 
